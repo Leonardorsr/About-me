@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Lerdonardo (Leonardo), Brazilian, studying computer science in college. I know how to code in HTML, CSS, something about JavaScript and SQL. 
-- I'm currently focused in Python, data science and process automation, (planning to stay in Back-End)
-- 👀 I’m open in learn new features, languages and any kind of specialization that will help me develop my carrer.
-- 📫 How to reach me, leorsr1@gmail.com
+Sempre me interessei pela área de tecnologia, achava fascinante como que tudo poderia funcionar em perfeita ordem e como um pequeno erro tem um grande impacto no sistema como um todo. Meu foco é na área de programação e desenvolvimento de sistemas, tenho uma ótima lógica de programação e resolução de problemas, aprendo rápido, hands on, trabalho bem em grupo, sou comunicativo e responsável, quando acontece algum problema, na minha visão, é mais prudente que ele seja discutido e comunicado para que nenhum imprevisto maior ocorra.
